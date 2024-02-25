@@ -2,9 +2,10 @@
   "name": "web-app-back",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Frank Estrada",
   "private": true,
   "license": "UNLICENSED",
+  "main": "./dist/main.js",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
